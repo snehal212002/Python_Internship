@@ -30,8 +30,7 @@ The following datasets are used for testing:
 
 
    
-
-**##Each script will:**
+##Each script will:
 1.Load the dataset.
 2.Preprocess the data (if necessary).
 3.Train the model.
